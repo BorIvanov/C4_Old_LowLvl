@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/fr.ac6.managedbuild.config.gnu.cross.exe.debug.220471470/PATH/delimiter=;
+environment/project/fr.ac6.managedbuild.config.gnu.cross.exe.debug.220471470/PATH/operation=replace
+environment/project/fr.ac6.managedbuild.config.gnu.cross.exe.debug.220471470/PATH/value=C\:\\Ac6\\SystemWorkbench\\plugins\\fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825\\tools\\compiler\\bin;C\:\\Ac6\\SystemWorkbench\\plugins\\fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825\\tools\\make;C\:/Ac6/SystemWorkbench/jre/bin/server;C\:/Ac6/SystemWorkbench/jre/bin;C\:/Ac6/SystemWorkbench/jre/lib/amd64;C\:\\windows\\system32;C\:\\windows;C\:\\windows\\System32\\Wbem;C\:\\windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\windows\\System32\\OpenSSH\\;C\:\\Program Files\\TortoiseSVN\\bin;C\:\\Program Files\\PuTTY\\;C\:\\Users\\iweeghel\\AppData\\Local\\Microsoft\\WindowsApps;;C\:\\Ac6\\SystemWorkbench
+environment/project/fr.ac6.managedbuild.config.gnu.cross.exe.debug.220471470/append=true
+environment/project/fr.ac6.managedbuild.config.gnu.cross.exe.debug.220471470/appendContributed=true
